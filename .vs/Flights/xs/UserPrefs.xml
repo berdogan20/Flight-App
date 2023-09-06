@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{493C2F9F-D20B-4BC4-ACFB-F0EC7025AA87}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Flights/ClientApp/src/app/book-flight/book-flight.component.ts">
+    <Files>
+      <File FileName="Flights/ClientApp/src/app/my-bookings/my-bookings.component.ts" Line="7" Column="1" />
+      <File FileName="Flights/ClientApp/src/app/app.module.ts" Line="15" Column="12" />
+      <File FileName="Flights/ClientApp/src/app/book-flight/book-flight.component.ts" Line="80" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flights" expanded="True">
+            <Node name="Flights" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="auth" expanded="True" />
+                    <Node name="book-flight" expanded="True">
+                      <Node name="book-flight.component.ts" selected="True" />
+                    </Node>
+                    <Node name="my-bookings" expanded="True" />
+                    <Node name="register-passenger" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Errors" expanded="True" />
+              </Node>
+              <Node name="Dtos" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ReadModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Flights PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
